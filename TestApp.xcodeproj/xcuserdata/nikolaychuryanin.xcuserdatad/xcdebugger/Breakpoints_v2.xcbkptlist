@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A1F0F3CE-B686-46C3-AFA0-3434C9215AC3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA15072B-E5D1-4F92-A69E-487BBA55DD53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestApp-dxrwzizydnchpkgxyjsykhdshjzo/SourcePackages/checkouts/XMLParsing/Sources/XMLParsing/Decoder/XMLDecoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "742"
+            endingLineNumber = "742"
+            landmarkName = "unbox(_:as:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8940EC88-CC5F-421D-97E2-42607E947F80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/TestApp-dxrwzizydnchpkgxyjsykhdshjzo/SourcePackages/checkouts/XMLParsing/Sources/XMLParsing/Decoder/XMLDecoder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "keyFormatted(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8940EC88-CC5F-421D-97E2-42607E947F80 - ff9361303dc24955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static XMLParsing.XMLDecoder.DateDecodingStrategy.keyFormatted((Swift.CodingKey) throws -&gt; Swift.Optional&lt;__C.NSDateFormatter&gt;) -&gt; XMLParsing.XMLDecoder.DateDecodingStrategy"
+                  moduleName = "TestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikolaychuryanin/Library/Developer/Xcode/DerivedData/TestApp-dxrwzizydnchpkgxyjsykhdshjzo/SourcePackages/checkouts/XMLParsing/Sources/XMLParsing/Decoder/XMLDecoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "8940EC88-CC5F-421D-97E2-42607E947F80 - 81bab0c632813074"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Decoder) throws -&gt; Foundation.Date in static XMLParsing.XMLDecoder.DateDecodingStrategy.keyFormatted((Swift.CodingKey) throws -&gt; Swift.Optional&lt;__C.NSDateFormatter&gt;) -&gt; XMLParsing.XMLDecoder.DateDecodingStrategy"
+                  moduleName = "TestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikolaychuryanin/Library/Developer/Xcode/DerivedData/TestApp-dxrwzizydnchpkgxyjsykhdshjzo/SourcePackages/checkouts/XMLParsing/Sources/XMLParsing/Decoder/XMLDecoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "337">
+               </Location>
+               <Location
+                  uuid = "8940EC88-CC5F-421D-97E2-42607E947F80 - 81bab0c632813074"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Decoder) throws -&gt; Foundation.Date in static XMLParsing.XMLDecoder.DateDecodingStrategy.keyFormatted((Swift.CodingKey) throws -&gt; Swift.Optional&lt;__C.NSDateFormatter&gt;) -&gt; XMLParsing.XMLDecoder.DateDecodingStrategy"
+                  moduleName = "TestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikolaychuryanin/Library/Developer/Xcode/DerivedData/TestApp-dxrwzizydnchpkgxyjsykhdshjzo/SourcePackages/checkouts/XMLParsing/Sources/XMLParsing/Decoder/XMLDecoder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "4153">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "202A100A-E1E6-48E3-AC18-0FD0AB3C4FB8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestApp/Source/Service/NewsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "loadNews(url:completion:onError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
